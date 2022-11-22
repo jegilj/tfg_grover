@@ -1,4 +1,4 @@
-# tfg_grover - Diferentes Implementaciones del Algoritmod de Grover
+# tfg_grover - Diferentes Implementaciones del Algoritmo de Grover
 En este repositorio puedes encontrar diferentes implementaciones del algoritmo de Grover realizadas con Qiskit.
 
 En el fichero:
